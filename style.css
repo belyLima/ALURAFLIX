@@ -1,20 +1,20 @@
 body {
   background-color: aqua;
   color: darkblue;
-  font-family: "Trebuchet MS","Comic Sans MS",cursive;
+  font-family: "Trebuchet MS","Comic Sans MS", cursive;
   margin: 0,
 } 
 
 header {
-  font-síze: 60px;
+  font-size: 60px;
   border-bottom: double 5px white;
   padding: 6px
   text-align: center;
 }
 
 h1 {
-  font-síze: 30px;
+  font-size: 30px;
 }
 
 p {
-  font-síze: 20px
+  font-size: 20px

@@ -8,18 +8,18 @@ body {
 header {
   font-size: 60px;
   border-bottom: double 6px white;
-  text-aling: center;
+  text-align: center;
 }
 
 h1 {
   font-size: 30px;
-  border-bottom: double 5px powderblue
+  border-bottom: double 5px powderblue;
   text-align: center;
 }
 
 p {
   font-size: 20px
-  text-align: center;
+  text-align center;
 }
 
 iframe, video {
